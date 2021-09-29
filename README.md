@@ -9,3 +9,5 @@ I work in the health sector and want to better understand the software **SORMAS*
 - [x] create a first repository
 - [ ] learn more about *GitHub* (read book)
 - [ ] investigate the **SORMAS**-project on *GitHub*
+- [x] have a first look on **SORMAS** at the *GitHub* site
+- [ ] find the code for "cases in isolation" in the **SORMAS** source code
